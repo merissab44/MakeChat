@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon"
+    "test": "nodemone"
   },
   "author": " <Merissa Bridgeman>",
   "license": "MIT",
