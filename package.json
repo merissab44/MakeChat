@@ -1,0 +1,17 @@
+{
+  "name": "makechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "author": " <Merissa Bridgeman>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "mongoose": "^6.0.8",
+    "socket.io": "^4.2.0"
+  }
+}
